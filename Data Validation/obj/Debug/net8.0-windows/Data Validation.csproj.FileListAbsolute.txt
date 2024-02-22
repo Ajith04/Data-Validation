@@ -1,0 +1,16 @@
+E:\Visual Studio\Data Validation\Data Validation\bin\Debug\net8.0-windows\Data Validation.exe
+E:\Visual Studio\Data Validation\Data Validation\bin\Debug\net8.0-windows\Data Validation.deps.json
+E:\Visual Studio\Data Validation\Data Validation\bin\Debug\net8.0-windows\Data Validation.runtimeconfig.json
+E:\Visual Studio\Data Validation\Data Validation\bin\Debug\net8.0-windows\Data Validation.dll
+E:\Visual Studio\Data Validation\Data Validation\bin\Debug\net8.0-windows\Data Validation.pdb
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data_Validation.frmloginpage.resources
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data Validation.csproj.GenerateResource.cache
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data Validation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data Validation.AssemblyInfoInputs.cache
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data Validation.AssemblyInfo.cs
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data Validation.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data Validation.dll
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\refint\Data Validation.dll
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data Validation.pdb
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data Validation.genruntimeconfig.cache
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\ref\Data Validation.dll
