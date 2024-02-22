@@ -16,5 +16,12 @@ namespace Data_Validation
         {
             txtusername.Select();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            frmregistrationpage registrationpage = new frmregistrationpage();
+            registrationpage.Show();
+            this.Hide();
+        }
     }
 }

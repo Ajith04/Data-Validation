@@ -14,3 +14,6 @@ E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\refint
 E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data Validation.pdb
 E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data Validation.genruntimeconfig.cache
 E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\ref\Data Validation.dll
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data_Validation.frmhomepage.resources
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data_Validation.frmregistrationpage.resources
+E:\Visual Studio\Data Validation\Data Validation\obj\Debug\net8.0-windows\Data Validation.sourcelink.json
