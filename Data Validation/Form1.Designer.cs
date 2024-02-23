@@ -71,6 +71,7 @@
             button1.Text = "Login";
             button1.TextAlign = ContentAlignment.TopCenter;
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // label2
             // 
@@ -98,6 +99,7 @@
             // 
             txtpassword.Location = new Point(212, 124);
             txtpassword.Name = "txtpassword";
+            txtpassword.PasswordChar = '*';
             txtpassword.Size = new Size(144, 23);
             txtpassword.TabIndex = 2;
             txtpassword.TextChanged += textBox2_TextChanged;
